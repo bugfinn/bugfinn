@@ -1,13 +1,10 @@
 # Hi, I'm Affan 👋
 
-Frontend engineer transitioning into cloud infrastructure, currently BSSE at
-Khwaja Fareed University of Engineering & Information Technology (KFUEIT).
+Cloud-focused Software Engineer and BSSE student at Khwaja Fareed University of Engineering & Information Technology (KFUEIT).
 
-I like building complete systems, the frontend people see and the backend
-that actually runs it. My [portfolio site](https://portfolio-tau-two-vtnj2hljh0.vercel.app)
-is a good example. The frontend is Next.js. The backend is a real serverless
-service I built myself, AWS Lambda and DynamoDB, with no managed platform
-doing the work behind the scenes.
+I engineer complete systems—from the UI users interact with to the cloud infrastructure that scales behind it. 
+My portfolio is a live example:[portfolio site](https://portfolio-tau-two-vtnj2hljh0.vercel.app) rather than relying on a 'Backend-as-a-Service' shortcut, 
+I engineered a custom, decoupled serverless architecture using AWS Lambda and DynamoDB to power a Next.js frontend.
 
 ### What I'm working with
 
@@ -22,8 +19,7 @@ doing the work behind the scenes.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38bdf8?logo=tailwindcss&logoColor=white)
 ### Currently
 
-- 🔭 Building out my cloud infrastructure skills through real, hands-on
-  projects
+- 🔭 Architecting custom cloud infrastructure and serverless APIs on AWS.
 - 📝 Writing about what I actually learn along the way on
   [my blog](https://portfolio-tau-two-vtnj2hljh0.vercel.app/blog)
 - 🌱 Next up: deeper into networking and VPC design
